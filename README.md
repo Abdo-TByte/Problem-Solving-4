@@ -24,7 +24,10 @@ This program creates two arrays filled with random numbers, then sums each pair 
    ```sh
    g++ -o arrays Solve.cpp
 
-Enter Your Array's Length : 5
+
+##Example Output
+
+    Enter Your Array's Length : 5
 
 First Array : 23  45  67  12  89  
 
