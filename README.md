@@ -22,7 +22,7 @@ This program creates two arrays filled with random numbers, then sums each pair 
 
 1. Compile the code using a C++ compiler, for example:
    ```sh
-g++ -o arrays Solve.cpp
+   g++ -o arrays Solve.cpp
 
 Enter Your Array's Length : 5
 
